@@ -1,5 +1,4 @@
-Overview of AI Applications for Personalized Content Creation
-====================================================================================================================
+
 
 Personalizing content has become increasingly important in today's world of information overload. Artificial Intelligence (AI) can help wordsmiths personalize content at scale. In this chapter, we will provide an overview of the applications of AI for personalized content creation.
 

@@ -1,5 +1,4 @@
-Types of AI Used for Content Creation
-======================================================================================
+
 
 As the use of artificial intelligence (AI) becomes more prevalent in content creation, it's important to understand the different types of AI that are used in this field. In this chapter, we will discuss the various types of AI used for content creation and how they can be leveraged to improve writing quality and efficiency.
 
