@@ -1,5 +1,4 @@
 
-
 As the use of artificial intelligence (AI) becomes more prevalent in content creation, it's important to consider the ethical implications of their use. In this chapter, we will discuss some of the ethical considerations that writers must take into account when implementing AI tools in content creation.
 
 Bias
