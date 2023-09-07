@@ -15,3 +15,7 @@ Throughout the book, we will provide practical examples and real-world use cases
 Whether you're just getting started with AI or are looking to take your existing skills to the next level, this book will provide you with the knowledge and insights you need to succeed. By leveraging the power of AI to enhance your content creation process, you can create more engaging, effective, and compelling content that resonates with your audience and achieves your business objectives.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
